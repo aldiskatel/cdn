@@ -1,5 +1,5 @@
 # cdn
 CDN Landing
 
-- https://cdn.jsdelivr.net/gh/aldiskatel/cdn/{NAMA DIREKTORI}
+- https://cdn.jsdelivr.net/gh/aldiskatel/cdn/{NAMA_DIREKTORI}
 
